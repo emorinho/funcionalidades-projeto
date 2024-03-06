@@ -1,10 +1,10 @@
-Tema do projeto: 
+# Funcionalidades - Projeto
 
-Site de vendas 
 
- 
 
- 
+Tema do projeto - Site de vendas 
+
+
 
 Grupo do PI: 
 
@@ -20,9 +20,7 @@ Gustavo Freire de Freitas
 
 Micael Cadete da Silva Cosme (LÍDER) 
 
- 
 
- 
 
 Coisas pra reutilizar: 
 
@@ -30,9 +28,7 @@ Contato e login – site Christian e Micael
 
 Página de produtos (card) - site Gustavo e Amorim 
 
- 
 
- 
 
 Funcionalidades do site: 
 
